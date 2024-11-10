@@ -1,0 +1,1 @@
+output_video_frames = tracker.draw_annotations(video_frames, tracks)
