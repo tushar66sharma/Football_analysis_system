@@ -27,7 +27,7 @@ The following modules are used in this project:
 - [Dataset Link to fine tune the model](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 
 ## Sample video for refrence
--  [Sample video](https://drive.google.com/file/d/11FHKzJoATnOR_rF5-rU3mmul1X7KqJGX/view?usp=sharing](https://www.youtube.com/watch?v=neBZ6huolkg&t=1913s))
+-  [Sample video](https://www.youtube.com/watch?v=neBZ6huolkg&t=1913s)
 
 
 ## Sequential Steps:-
