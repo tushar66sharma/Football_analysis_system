@@ -17,10 +17,10 @@ The following modules are used in this project:
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
 ## Sample video
--  [Sample input video]([https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing](https://drive.google.com/file/d/11FHKzJoATnOR_rF5-rU3mmul1X7KqJGX/view?usp=sharing))
+-  [Sample input video](https://drive.google.com/file/d/11FHKzJoATnOR_rF5-rU3mmul1X7KqJGX/view?usp=sharing)
 
 ## Output video
--   [Output video]([[https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing](https://drive.google.com/file/d/11FHKzJoATnOR_rF5-rU3mmul1X7KqJGX/view?usp=sharing)](https://drive.google.com/drive/folders/1FN0pP2imafIyNgGUM2p4n-bvdqxn-IsK?usp=sharing))
+-   [Output video](https://drive.google.com/drive/folders/1FN0pP2imafIyNgGUM2p4n-bvdqxn-IsK?usp=sharing)
 
 
 ## Sequential Steps:-
